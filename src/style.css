@@ -31,7 +31,6 @@
   font-weight: 800;
 }
 ul {
-  width: 25vw;
   height: 45vh;
   list-style: none;
   display: flex;
@@ -44,4 +43,8 @@ li {
   text-align: center;
   padding: 8px 48px;
   margin: 8px;
+}
+.List {
+  width: 50vw;
+  text-align: center;
 }
